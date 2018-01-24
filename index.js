@@ -31,5 +31,6 @@ function makeInt(n) {
 }
 
 function makeInt() {
-  return 
+  return parseFloat(n);
 }
+
